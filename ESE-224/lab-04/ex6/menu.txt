@@ -1,0 +1,5 @@
+Coffee,35
+Tea,20
+Bagel,15
+Smoothie,10
+Breakfast_Burrito,5

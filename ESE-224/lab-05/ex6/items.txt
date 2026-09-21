@@ -1,0 +1,10 @@
+Milk 2.49
+Eggs 3.29
+Bread 2.19
+Butter 4.59
+Apples 1.89
+Chicken 7.99
+Rice 5.25
+Coffee 9.49
+Cheese 6.39
+Juice 3.59

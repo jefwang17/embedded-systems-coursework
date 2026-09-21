@@ -1,0 +1,9 @@
+common=65
+rare=22
+epic=10
+theme=Halloween
+event_bonus=2
+max_players=100
+legendary=3
+pity=8
+log_file=loot_log.txt

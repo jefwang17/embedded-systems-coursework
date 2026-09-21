@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lab 12 syblmob")(type "KiCad")(uri "${KIPRJMOD}/lab 12 syblmob.kicad_sym")(options "")(descr ""))
+)

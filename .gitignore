@@ -1,0 +1,108 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editors and IDE settings
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.atsuo
+*.wsuo
+*.vsidx
+*.ipch
+Browse.VC.db
+slnx.sqlite
+
+# Compiled C and C++ files
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.elf
+*.pdb
+*.ilk
+*.out
+
+# AVR/Atmel build output
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+*.hex
+*.lss
+*.map
+*.tmp
+*.componentinfo.xml
+
+# VS Code temporary files
+tempCodeRunnerFile.*
+
+# Active-HDL generated files
+**/compile/
+**/log/
+*.mgf
+*.lib
+*.adf
+*.wsp
+*.asdb
+*.asdbw/
+*.aws
+*.wsw
+*.order
+*.erf
+*.sth
+bde.set
+Edfmap.ini
+compile.cfg
+library.cfg
+projlib.cfg
+
+# KiCad temporary and backup files
+*-backups/
+*.bak
+*.bck
+*.kicad_prl
+fp-info-cache
+.history/
+~*.lck
+
+# Old submission archives
+*.zip
+*.rar
+*.7z
+
+# Exclude PDFs unless intentionally placed in docs
+*.pdf
+!docs/**/*.pdf
+
+# Windows and macOS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+# ESE 124 duplicate and classroom files
+/ESE-124/final/final-project-J0S321/
+/ESE-124/lab 1 part intro.c
+/ESE-124/lab-02/.github/
+/ESE-124/lab-02/README.md
+
+# Temporary and generated text output
+**/[Tt]emp
+**/output.txt
+**/*_report.txt
+**/loot_log.txt
+**/loot_config_clean.txt
+/ESE-124/maze-command-interpreter/.github/
+/ESE-124/maze-command-interpreter/README.md
